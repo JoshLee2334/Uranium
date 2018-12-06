@@ -1,0 +1,14 @@
+{
+    "name": "Uranium",
+    "short_name": "Uranium",
+    "icons": [
+        {
+            "src": "/android-chrome-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#444444",
+    "background_color": "#444444",
+    "display": "standalone"
+}
